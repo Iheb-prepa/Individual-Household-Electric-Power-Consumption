@@ -1,3 +1,3 @@
 # Individual-Household-Electric-Power-Consumption
 This project aims to forecast the electric power consumption using various time series models.
-The code and the notes about the dataset are available in the jupyter notebook.
+The code and the notes about the dataset are available in the 'power_cons_forecasting.ipynb' notebook.
